@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "287509855456",
+    "project_id": "auth7321",
+    "storage_bucket": "auth7321.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:287509855456:android:41a027ac1722bff143e485",
+        "android_client_info": {
+          "package_name": "com.example.ourtoons"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "287509855456-7aer9mtc8nnve75sg1s3o6bc03ni0rjo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD5f-9wW6j2WoVf4XyLtJ9URPsLcP8hlfo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "287509855456-7aer9mtc8nnve75sg1s3o6bc03ni0rjo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
